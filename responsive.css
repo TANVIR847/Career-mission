@@ -231,7 +231,16 @@ iframe{
     color: rgba(0, 0, 0, 0.562);
 }
 
+/* page-3 */
 
+    
+iframe{
+     height: 300px;
+     padding: 16px;
+}
+
+
+    
 /* page-4 */
 
 .skill-container{
